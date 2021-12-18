@@ -1,0 +1,80 @@
+* {
+    font-family: 'Now', sans-serif;
+}
+
+.myTextPrimary {
+    color: #30FBEF;
+    text-decoration: none;
+}
+
+.myTextSecondary {
+    color: #9C69E2;
+    text-decoration: none;
+}
+
+body {
+    color: white;
+    background-color: #282828;
+}
+
+.nav-name {
+    color: #30FBEF !important;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.navbar-nav li {
+    padding-right: 20px;
+}
+
+.top-btn {
+    font-size: 14px;
+    font-weight: 300;
+    background: #282828;
+    box-shadow: 4px 3px 8px rgba(0, 0, 0, 0.25), -3px -3px 8px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+}
+
+/* end navigation */
+.land-topHead {
+    font-weight: bold;
+    font-size: 4rem;
+
+}
+
+.cardContainer {
+    background: radial-gradient(38.2% 50% at 50% 50%, #2E3134 0%, #292B2E 100%);
+    border: 2px solid #272829;
+    box-shadow: inset 2px 2px 40px rgba(0, 0, 0, 0.3);
+    border-radius: 50px;
+}
+
+.cards {
+    background: #212121;
+    box-shadow: 9px 9px 10px rgba(0, 0, 0, 0.25), -9px -9px 10px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+}
+
+/* end first container */
+.cardIcon {
+
+    text-shadow: 3px 3px 17px rgba(255, 252, 252, 0.45);
+    filter: drop-shadow(3px 3px 17px rgba(255, 252, 252, 0.45));
+}
+
+.swiper-slide, .swiper-slide1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.star {
+
+    width: 20px;
+    height: 20px;
+    background-color: #30FBEF;
+    box-shadow: 4px 3px 8px rgba(0, 0, 0, 0.25), -3px -3px 8px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+
+}
