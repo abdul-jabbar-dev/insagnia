@@ -78,3 +78,21 @@ body {
     border-radius: 50px;
 
 }
+
+/* end body section */
+#inputButton1 {
+    background: radial-gradient(38.2% 50% at 50% 50%, #2E3134 0%, #292B2E 100%);
+    border: 1px solid #272829;
+    box-shadow: inset 2px 2px 25px rgba(0, 0, 0, 0.3);
+    border-radius: 50px;
+    color: white;
+}
+
+#button-style {
+    background: #282828;
+    box-shadow: 4px 3px 8px rgba(0, 0, 0, 0.25), -3px -3px 8px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+    font-weight: 200;
+    color: white;
+    padding: 12px 30px;
+}
